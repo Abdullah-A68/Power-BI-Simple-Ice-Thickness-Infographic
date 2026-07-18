@@ -1,5 +1,11 @@
 # 2025 Week 2 - Ice Thickness Infographic (Power BI)
 
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
 ## Overview
 
 This project is my solution to the **Workout Wednesday 2025 - Week 2** Power BI challenge.
@@ -40,11 +46,6 @@ The objective was to recreate an infographic that communicates the minimum recom
 
 ---
 
-## Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
 
 ## Skills Practiced
 
