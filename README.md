@@ -61,7 +61,7 @@ The objective was to recreate an infographic that communicates the minimum recom
 
 Workout Wednesday – 2025 Week 2
 
-https://workout-wednesday.com/2025-w02-power-bi/
+[https://workout-wednesday.com/2025-w02-power-bi/](https://www.workout-wednesday.com/pbi-2025-w02/)
 
 ---
 
